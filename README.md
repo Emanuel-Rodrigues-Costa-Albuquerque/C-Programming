@@ -1,2 +1,2 @@
 # C-Programming
-Repository created to post my progress in studying the C programming language.
+The intention of this repository is simply a way to share my progress with the C programming language and post any updates about it.
